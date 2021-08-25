@@ -3,8 +3,11 @@
 ## Demo links
 Link to demo project [https://price-ccti.netlify.app](https://https://price-ccti.netlify.app).
 
-## Wider view
+## Screenshot Demo
 
-![localhost_3000_](https://user-images.githubusercontent.com/66668114/128180494-6c9ce630-b18f-4ddd-b452-2ceadac533cd.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/66668114/130866963-c0e71e15-c529-425a-815b-e481c434d17b.png)
+
+![127 0 0 1_5500_index html(iPhone X)](https://user-images.githubusercontent.com/66668114/130866970-e525bc92-ae5f-4ee6-938c-1a16cb59027b.png)
+
 
 
